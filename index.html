@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link rel="stylesheet" href="style.css">
+		<script src="info.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.1.slim.min.js"></script>
+		<title>AHS Historical Results</title>
+	</head>
+	<body>
+		<header>
+			<h1>AHS Academic UIL Results</h1>
+			<nav>
+				<a href="https://allen-uil.github.io/" style="color:#fff" class="active">Back to Main Site</a>
+			</nav>
+		</header>
+		<main>
+			<div class="container">
+				<h2>Allen's Academic UIL Competition History Post-COVID (2021 and Beyond)</h2>
+				<div class="row">
+					<section class="col-md-12 col-xl-12">
+						<select name="year" id="year">
+							<option value="Select Year" disabled selected>Select Year</option>
+							<option value="2021">2021</option>
+							<option value="2022">2022</option>
+						</select>
+						<select name="event" id="event">
+							<option value="Select Event" disabled selected>Select Event</option>
+							<option value="AC">Accounting</option>
+							<option value="CL">Calculator</option>
+							<option value="CA">Computer Apps</option>
+							<option value="CS">Computer Sci</option>
+							<option value="CE">Current Events</option>
+							<option value="GM">General Math</option>
+							<option value="WR">Journalism</option>
+							<option value="LC">Literary Crit</option>
+							<option value="NS">Number Sense</option>
+							<option value="SC">Science</option>
+							<option value="SS">Social Studies</option>
+							<option value="SP">Spelling</option>
+						</select>
+						<button onclick="query();">Submit</button>
+						<br>
+						
+						<div id="toggle">
+							
+						</div>
+					</section>
+				</div>
+			</div>
+		</main>
+		<footer>
+			<p class="footnote" style="color:#fff">Made by Warith Rahman via GitHub. Design inspired by 
+			<a href="https://www.ekzhang.com" target="_blank">Eric Zhang</a></p>
+			<p class="footnote" style="color:#fff">This site is unofficial, and not managed/sponsored by Allen ISD.</p>
+		</footer>
+		<script src="index.js"></script>
+	</body>
+</html>

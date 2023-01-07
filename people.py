@@ -101,9 +101,12 @@ for s in names:
 			if res[cidx][0] == ',':
 				res[cidx] = res[cidx][2:]
 
-	txt_res = "<h2>"
-	txt_res += (gold * go) + (silver * si) + (bronze * br) + (other * ot)
-	txt_res += "</h2>\n<br>"
+	medals = [(gold * go), (silver * si), (bronze * br), (other * ot)]
+	medals = ' '.join(map(str, medals)).split()
+	txt_res = ""
+	for med in medals:
+		txt_res += "<h2>" + med + "</h2>\n"
+	txt_res += "<br>"
 	txt_res += "<ul>\n\t"
 	for i in range(len(comp)):
 		txt_res += "<li>" + comp[i][:5] + comp_conv[comp[i][5:]]

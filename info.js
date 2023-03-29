@@ -33,7 +33,17 @@ var tres = [
 ["2022 NS", "1st Team Districts | 1st Team Regionals | 3rd Team State"],
 ["2022 SC", "1st Team Districts | 1st Team Regionals | 3rd Team State"],
 ["2022 SS", "1st Team Districts | 4th Team Regionals"],
-["2022 SP", "1st Team Districts | 1st Team Regionals | 1st Team State"]
+["2022 SP", "1st Team Districts | 1st Team Regionals | 1st Team State"],
+["2023 AC", ""],
+["2023 CL", "1st Team Districts"],
+["2023 CS", "1st Team Districts"],
+["2023 CE", "2nd Team Districts"],
+["2023 GM", "1st Team Districts"],
+["2023 LC", "2nd Team Districts"],
+["2023 NS", "1st Team Districts"],
+["2023 SC", "1st Team Districts"],
+["2023 SS", "6th Team Districts"],
+["2023 SP", "1st Team Districts"]
 ]
 
 var res = [
@@ -60,5 +70,17 @@ var res = [
 ["2022 SC", "Rishi Gandikota: 5th Districts | Safwan Islam: | Veda Kutagula: | Warith Rahman: 4th Districts, 6th Regionals | Anthony Xu: 2nd Districts, 1st Chem Districts, 2nd Phys Districts, 2nd Regionals, 2nd Chem Regionals | Eric Yang: 3rd Districts, 1st Bio Districts, 1st Phys Districts, 3rd Regionals, 1st Phys Regionals, 2nd Phys State"],
 ["2022 SS", "Mihir Gokhale: 2nd Districts | Rishabh Gokhale: 5th Districts | Pratham Patel: 3rd Districts | Donovan Zhang: 1st Districts"],
 ["2022 SP", "Daniel Bui: 4th Districts, 3rd Regionals | Andrew Kim: 2nd Districts, 5th Regionals | Sanjana Kishore: 3rd Districts, 3rd Regionals | Blake Maulsby: 1st Districts, 1st Regionals, 1st State"],
-["2022 WR", "Maelin Fan: 4th Ready Districts | Carl Hu: 3rd Feature Districts, 2nd News Districts, 2nd Feature Regionals, 3rd News Regionals, 6th Feature State, 6th News State | Karoline Reeves: 2nd Ready Districts, 6th Ready Regionals"]
+["2022 WR", "Maelin Fan: 4th Ready Districts | Carl Hu: 3rd Feature Districts, 2nd News Districts, 2nd Feature Regionals, 3rd News Regionals, 6th Feature State, 6th News State | Karoline Reeves: 2nd Ready Districts, 6th Ready Regionals"],
+["2023 AC", "Fayyad Hasnain: 3rd Districts | Andrew Wulur: 4th Districts"],
+["2023 CL", "Warith Rahman: 1st Districts | Anthony Xu: 2nd Districts | Eric Yang: 3rd Districts | Blake Maulsby: 4th Districts | Jessie Wang: 5th Districts | Dina Spiegel: "],
+["2023 CA", "Andrew Bourinski: 1st Districts"],
+["2023 CS", "Anthony Xu: 1st Districts | Eric Yang: 2nd Districts | Zafir Nasim: 3rd Districts | Warith Rahman: 4th Districts"],
+["2023 CE", "Veda Kutagula: 2nd Districts | Drew Warninghoff: 4th Districts | Rishabh Gokhale: | Rishi Gandikota: | Pratham Patel: | Emman Khan: "],
+["2023 GM", "Warith Rahman: 1st Districts | Eric Yang: 2nd Districts | Anthony Xu: 3rd Districts | Blake Maulsby: 4th Districts | Adithya Uppathil: 5th Districts | Arjun Chowdhry: "],
+["2023 LC", "Sanjana Kishore: 1st Districts | Beckyn Endashaw: | Kate Vernon: | Ashlynn Street: "],
+["2023 NS", "Warith Rahman: 1st Districts | Anthony Xu: 2nd Districts | Blake Maulsby: 3rd Districts | Adithya Uppathil: 4th Districts | Jessie Wang: 6th Districts | Daniel Bui: "],
+["2023 SC", "Eric Yang: 1st Districts, 1st Chem Districts, 1st Phys Districts | Blake Maulsby: 2nd Districts, 1st Bio Districts, 2nd Chem Districts | Anthony Xu: 3rd Districts, 2nd Chem Districts, 2nd Phys Districts | Warith Rahman: 4th Districts, 2nd Chem Districts | Rishi Gandikota: 5th DIstricts, 2nd Chem Districts | Drew Warninghoff: "],
+["2023 SS", "Arjun Chowdhry: | Pratham Patel: | Rishabh Gokhale: "],
+["2023 SP", "Andrew Kim: 2nd Districts | Daniel Bui: 3rd Districts | Sanjana Kishore: 4th Districts | Jocelyn Parks: 6th Districts | Herish Tripathi: "],
+["2023 WR", "Eryn Rodriguez: 6th Ready Districts | Carl Hu: 2nd Feature Districts, 1st News Districts | Karoline Reeves: 3rd Ready Districts | Joshua Moro: 5th Feature Districts"],
 ]

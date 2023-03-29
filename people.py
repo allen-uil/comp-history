@@ -109,7 +109,9 @@ for s in names:
 	txt_res += "<br>"
 	txt_res += "<ul>\n\t"
 	for i in range(len(comp)):
-		txt_res += "<li>" + comp[i][:5] + comp_conv[comp[i][5:]]
+		if i >= 0 and comp[i][:5] != comp[i-1][:5]:
+			txt_res += "<br>\n"
+		txt_res += "<li><b>" + comp[i][:5] + comp_conv[comp[i][5:]] + "</b>"
 		if len(res[i]) >= 3: # idk some random value
 			txt_res += ": " + res[i] + "</li>\n"
 	txt_res += "</ul>"

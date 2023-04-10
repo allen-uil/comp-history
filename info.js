@@ -79,7 +79,7 @@ var res = [
 ["2023 GM", "Warith Rahman: 1st Districts | Eric Yang: 2nd Districts | Anthony Xu: 3rd Districts | Blake Maulsby: 4th Districts | Adithya Uppathil: 5th Districts | Arjun Chowdhry: "],
 ["2023 LC", "Sanjana Kishore: 1st Districts | Beckyn Endashaw: | Kate Vernon: | Ashlynn Street: "],
 ["2023 NS", "Warith Rahman: 1st Districts | Anthony Xu: 2nd Districts | Blake Maulsby: 3rd Districts | Adithya Uppathil: 4th Districts | Jessie Wang: 6th Districts | Daniel Bui: "],
-["2023 SC", "Eric Yang: 1st Districts, 1st Chem Districts, 1st Phys Districts | Blake Maulsby: 2nd Districts, 1st Bio Districts, 2nd Chem Districts | Anthony Xu: 3rd Districts, 2nd Chem Districts, 2nd Phys Districts | Warith Rahman: 4th Districts, 2nd Chem Districts | Rishi Gandikota: 5th DIstricts, 2nd Chem Districts | Drew Warninghoff: "],
+["2023 SC", "Eric Yang: 1st Districts, 1st Chem Districts, 1st Phys Districts | Blake Maulsby: 2nd Districts, 1st Bio Districts | Anthony Xu: 3rd Districts, 2nd Chem Districts, 2nd Phys Districts | Warith Rahman: 4th Districts, 2nd Chem Districts | Rishi Gandikota: 5th DIstricts, 2nd Chem Districts | Drew Warninghoff: "],
 ["2023 SS", "Arjun Chowdhry: | Pratham Patel: | Rishabh Gokhale: "],
 ["2023 SP", "Andrew Kim: 2nd Districts | Daniel Bui: 3rd Districts | Sanjana Kishore: 4th Districts | Jocelyn Parks: 6th Districts | Herish Tripathi: "],
 ["2023 WR", "Eryn Rodriguez: 6th Ready Districts | Carl Hu: 2nd Feature Districts, 1st News Districts | Karoline Reeves: 3rd Ready Districts | Joshua Moro: 5th Feature Districts"],
